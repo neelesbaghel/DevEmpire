@@ -3,7 +3,7 @@ export interface Data {
  * Represents a single resource or item in the collection.
  */
 export interface ResourceItem {
-  /** The URL to the resource */
+  /** The URL to the resource 
   link: string;
 
   /** The main title or heading for the resource */
